@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionProblemSolution", "ExpressionProblemSolution.csproj", "{8F2A32B6-12BF-4FDD-8010-7869C1EF9316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F2A32B6-12BF-4FDD-8010-7869C1EF9316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2A32B6-12BF-4FDD-8010-7869C1EF9316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2A32B6-12BF-4FDD-8010-7869C1EF9316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2A32B6-12BF-4FDD-8010-7869C1EF9316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3F473E0-7B47-4938-AD31-468F0D74E6C1}
+	EndGlobalSection
+EndGlobal
